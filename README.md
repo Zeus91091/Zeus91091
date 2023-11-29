@@ -1,5 +1,5 @@
 ###  Zeus91091.github.io 
-Hi 👋 and Hello everyone, this is my repository for a Tudor tale on Twine. You can take on the role of King Henry VII and witness his noteworthy journey and influence during the Tudor era. 
+Hi 👋 and Hello everyone, this is my repository for a Tudor History tale on Twine. You can take on the role of King Henry VII and witness his noteworthy journey and influence during the Tudor era. 
 <!--
 **Zeus91091/Zeus91091** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
